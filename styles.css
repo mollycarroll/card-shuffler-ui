@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+div.buttons {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+button {
+    background-color: #6BD097;
+    margin: 10px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 16px 34px;
+}
